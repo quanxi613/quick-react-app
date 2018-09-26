@@ -1,0 +1,11 @@
+.cardHeaderIcon {
+  width: 19px;
+  height: 19px;
+  margin-right: 10px;
+}
+
+.cardHeaderIcon.top5Icon {
+  background: url(./img/icon-top5.svg)  no-repeat;
+  background-size: 100%;
+}
+
