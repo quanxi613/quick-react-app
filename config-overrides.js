@@ -45,15 +45,6 @@ module.exports = function override(config, env) {
             // theme vars, also can use theme.js instead of this.
             modifyVars: {
               // "@brand-primary": "#0C1644",
-              "@fill-body":"#0A133A",
-              "@fill-base":"#0C1644",
-              "@color-text-base": "#fff",
-              "@color-text-base-inverse": '#FE8C12',
-              "@color-text-paragraph": '#fff',
-              "@border-color-base":"#0A133A",
-              "@color-icon-base": "#ff8200",
-              "@search-bar-fill": "#091B3A",
-              "@fill-tap": ''
             },
           },
         },
