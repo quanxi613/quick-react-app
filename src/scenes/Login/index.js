@@ -45,7 +45,7 @@ export default class Login extends Component {
       <div className={s.root}>
         <div className={s.header}>
           <div className={s.logo}></div>
-          <div className={s.title}>中国电信XX平台</div>
+          <div className={s.title}>XX平台</div>
         </div>
 
         <div className={s.loginContainer}>
